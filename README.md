@@ -3,4 +3,4 @@ it will be a first github repo.
 hello world
 author -  me  rns
 <br>
-some code use here for texting 
+some code use here  
